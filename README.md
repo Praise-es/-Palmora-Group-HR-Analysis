@@ -96,8 +96,7 @@ The dataset includes:
 ---
 
 ## 📎 Files in This Repository
-- `Palmoria HR Data.xlsx` – Cleaned employee dataset
-- `Bonus Rules.xlsx` – Department-based rating bonus table
+- `Palmoria_Analysis.xlsx` – Cleaned employee dataset
 - `Palmoria HR Dashboard.xlsx` – Final interactive dashboard
 - `README.md` – Project summary and documentation
 
